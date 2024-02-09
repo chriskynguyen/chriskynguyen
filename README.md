@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chriskynguyen or Christopher Nguyen
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning python for AI
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning NLP through Stanford online
 - 📫 How to reach me chris.ky.nguyen@gmail.com
 
 <!---
