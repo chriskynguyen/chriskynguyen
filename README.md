@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chriskynguyen or Christopher Nguyen
 - 👀 I’m interested in Artificial Intelligence and the myriad of applications it has
-- 🌱 I’m currently learning NLP through Stanford online for a graduate certificate in AI
+- 🌱 I’m currently learning NLP and RL through Stanford online for a graduate certificate in AI
 - 📫 My email is chris.ky.nguyen@gmail.com and my LinkedIn is linkedin.com/in/christopher-nguyen-8a2897183
 
 <!---
